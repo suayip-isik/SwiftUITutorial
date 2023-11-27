@@ -11,6 +11,7 @@
 		02EE7C992B15222F0032F375 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EE7C982B15222F0032F375 /* ContentView.swift */; };
 		02EE7C9B2B15222F0032F375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02EE7C9A2B15222F0032F375 /* Assets.xcassets */; };
 		02EE7C9E2B15222F0032F375 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02EE7C9D2B15222F0032F375 /* Preview Assets.xcassets */; };
+		02EE7CA72B1529F20032F375 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EE7CA62B1529F20032F375 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		02EE7C982B15222F0032F375 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		02EE7C9A2B15222F0032F375 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02EE7C9D2B15222F0032F375 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		02EE7CA62B1529F20032F375 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				02EE7C962B15222F0032F375 /* SwiftUITutorialApp.swift */,
 				02EE7C982B15222F0032F375 /* ContentView.swift */,
+				02EE7CA62B1529F20032F375 /* SecondView.swift */,
 				02EE7C9A2B15222F0032F375 /* Assets.xcassets */,
 				02EE7C9C2B15222F0032F375 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02EE7CA72B1529F20032F375 /* SecondView.swift in Sources */,
 				02EE7C992B15222F0032F375 /* ContentView.swift in Sources */,
 				02EE7C972B15222F0032F375 /* SwiftUITutorialApp.swift in Sources */,
 			);
